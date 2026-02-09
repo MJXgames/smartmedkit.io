@@ -8,6 +8,9 @@
 .logo-img {
     width:30px;
 }
+.logo {
+    width:30px;
+}
 .menu {
     position: fixed;
     background-color: #121212;
@@ -503,3 +506,4 @@ transition: 0.5s;
 }
 
 }
+
