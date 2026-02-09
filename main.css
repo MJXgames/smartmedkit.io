@@ -6,7 +6,11 @@
     font-family: 'Montserrat';
 }
 .logo-img {
-    width:30px;
+    width: 30px;
+}
+.imglogo {
+    width: 30px;
+    height: 30px;
 }
 .logo {
     width:30px;
@@ -506,4 +510,5 @@ transition: 0.5s;
 }
 
 }
+
 
