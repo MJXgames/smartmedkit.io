@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Montserrat';
 }
+.logo-img {
+    width:30px;
+}
 .menu {
     position: fixed;
     background-color: #121212;
@@ -498,4 +501,5 @@ transition: 0.5s;
     margin-left: auto;
     margin-right: auto;
 }
+
 }
